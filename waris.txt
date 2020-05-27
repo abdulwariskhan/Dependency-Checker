@@ -2,5 +2,8 @@ Abdul waris khan
 Sufiyan ahmad royal
 Waris khan
 Software Engineer
+<<<<<<< HEAD
 Hesham
 Haris
+=======
+>>>>>>> 7e4856047be5cb5075e51be7cc446269f3120f76
