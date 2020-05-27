@@ -1,2 +1,7 @@
 Abdul waris khan
 Sufiyan ahmad royal
+<<<<<<< HEAD
+=======
+Waris khan
+Software Engineer
+>>>>>>> 3f4809b6108870590a091aab4ec0c314efdb47c5
